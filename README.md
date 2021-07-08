@@ -10,7 +10,7 @@ Discord.py Channel Nuke Bot
 7) search for 'discord' package and install the FIRST ONE ('discord')
 8) Click it and press add.
 9) Wait for it to install
-10) Copy and paste the code
-11) Put your discord token where it says "Token here"
+10) Copy and paste the code from main.py
+11) Put your discord token where it says "paste discord token into speech marks"
 12) Press run
 13) do .nuke in a channel to nuke the server! (must have permissions)
